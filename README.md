@@ -1,5 +1,4 @@
-# Random Meal Generator - #001 of #100Days100Projects
-
+# Random Meal Generator - 
 Welcome to my #100Days100Projects journey! This is project #001, where I explore the usage of client and server methods in the latest version of NextJS. In this project, I have implemented a Random Meal Generator.
 
 ## Project Overview
